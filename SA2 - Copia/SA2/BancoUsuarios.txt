@@ -1,0 +1,11 @@
+1,gte,21
+2,get,21
+3,het,21
+4,hoe,33
+5,tre,11
+6,geisson da rocha palmarante,21
+7,carlos roberto ,23
+8,denis frajola,23
+9,geison,32
+10,pipoca neru,43
+11,jerundi adolfo,54
