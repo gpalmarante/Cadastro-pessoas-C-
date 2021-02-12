@@ -32,7 +32,8 @@ namespace SA2
             StreamReader Y;
             int counter = 0;
             string line;
-            string CaminhoNome = " C:\\Users\\gpalmarante\\source\\repos\\SA2\\SA2\\BancoUsuarios.txt";
+            //verificar caminho do arquivo
+            string CaminhoNome = "\\SA2\\SA2\\BancoUsuarios.txt";
 
             //ler e contar quantidades de dados.
             Y = new StreamReader(CaminhoNome);
@@ -64,7 +65,8 @@ namespace SA2
             int counter = 0;
             int counterGrava = 0;
             string line;
-            string CaminhoNome = " C:\\Users\\gpalmarante\\source\\repos\\SA2\\SA2\\BancoUsuarios.txt";
+            //verificar caminho do arquivo
+            string CaminhoNome = " SA2\\SA2\\BancoUsuarios.txt";
 
             //ler e contar quantidades de dados.
             Y = new StreamReader(CaminhoNome);
