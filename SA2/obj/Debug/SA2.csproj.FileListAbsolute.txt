@@ -1,0 +1,26 @@
+C:\Users\gpalmarante\source\repos\SA2\SA2\bin\Debug\SA2.exe.config
+C:\Users\gpalmarante\source\repos\SA2\SA2\bin\Debug\SA2.exe
+C:\Users\gpalmarante\source\repos\SA2\SA2\bin\Debug\SA2.pdb
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.csprojAssemblyReference.cache
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.Properties.Resources.resources
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.csproj.GenerateResource.cache
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.csproj.CoreCompileInputs.cache
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.exe
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.pdb
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.CriaUsuario.resources
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.ListaUsuario.resources
+C:\Users\gpalmarante\source\repos\SA2\SA2\obj\Debug\SA2.principal.resources
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\bin\Debug\SA2.exe.config
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\bin\Debug\SA2.exe
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\bin\Debug\SA2.pdb
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.csprojAssemblyReference.cache
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.CriaUsuario.resources
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.ListaUsuario.resources
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.principal.resources
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.Properties.Resources.resources
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.csproj.GenerateResource.cache
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.csproj.CoreCompileInputs.cache
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.exe
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.pdb
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.BuscarUsuario.resources
+C:\Users\gpalmarante\Source\Repos\gpalmarante\Cadastro-pessoas-C-\SA2 - Copia\SA2\obj\Debug\SA2.ExcluirUsuario.resources
